@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @the1337cookie
 - 👀 I’m interested in R, Finance, Riskmanagement
-- 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on R, Finance
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on R,Python, Finance, Riskmanagement
 - 📫 How to reach me the1337cookie@gmail.com
 
 <!---
